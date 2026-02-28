@@ -41,3 +41,18 @@ button {
   color: white;
   cursor: pointer;
 }
+nav {
+  background-color: #111827;
+  padding: 15px;
+}
+
+nav a {
+  margin: 0 15px;
+  background: none;
+  padding: 8px 15px;
+}
+
+nav a:hover {
+  background-color: #2563eb;
+  border-radius: 6px;
+}
